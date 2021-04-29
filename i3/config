@@ -14,7 +14,7 @@ set $mod Mod4
 font pango:DejaVu Sans Mono 8
 
 # setting the wallpaper
-exec --no-startup-id nitrogen --restore
+exec_always --no-startup-id feh --bg-fill /home/jacob/Pictures/snow.jpg --bg-fill /home/jacob/Pictures/snow_mountains.png
 
 # Startup programs
 # exec_always --no-startup-id picom -b
@@ -121,6 +121,18 @@ set $ws7 "7"
 set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
+
+#Set workspaces to certain monitors
+workspace $ws1 output eDP
+workspace $ws2 output HDMI-A-0
+workspace $ws3 output eDP
+workspace $ws4 output HDMI-A-0
+workspace $ws5 output eDP
+workspace $ws6 output HDMI-A-0
+workspace $ws7 output eDP
+workspace $ws8 output HDMI-A-0
+workspace $ws9 output eDP
+workspace $ws10 output HDMI-A-0
 
 # switch to workspace
 bindsym $mod+1 workspace number $ws1
