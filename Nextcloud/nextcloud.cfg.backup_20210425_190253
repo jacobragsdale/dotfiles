@@ -1,0 +1,17 @@
+[General]
+confirmExternalStorage=true
+newBigFolderSizeLimit=500
+useNewBigFolderSizeLimit=true
+
+[Accounts]
+0\Multifolders\2\ignoreHiddenFiles=false
+0\Multifolders\2\journalPath=._sync_b031a592b2da.db
+0\Multifolders\2\localPath=/home/jacob/Nextcloud/
+0\Multifolders\2\paused=false
+0\Multifolders\2\targetPath=/
+0\authType=webflow
+0\serverVersion=20.0.8.1
+0\url=https://ragsdaledev.com
+0\user=@Invalid()
+0\webflow_user=jacob
+version=2
