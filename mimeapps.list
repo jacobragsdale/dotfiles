@@ -1,0 +1,5 @@
+[Added Associations]
+application/vnd.ms-publisher=leafpad.desktop;micro.desktop;
+
+[Default Applications]
+application/vnd.ms-publisher=leafpad.desktop
