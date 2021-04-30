@@ -24,7 +24,8 @@ exec_always --no-startup-id feh --bg-fill /home/jacob/Pictures/snow.jpg --bg-fil
 
 exec_always --no-startup-id autotiling
 # exec_always --no-startup-id ~/.config/polybar/launch.sh --cuts
-exec_always --no-startup-id ~/.config/polybar/launch.sh --material
+# exec_always --no-startup-id ~/.config/polybar/launch.sh --material
+exec --no-startup-id xfce4-panel --disable-wm-checkX
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 
 # Use pactl to adjust volume in PulseAudio.

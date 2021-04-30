@@ -1,5 +1,5 @@
-favorites=Alacritty.desktop,bitwarden.desktop,xfce4-file-manager.desktop,firefox.desktop,xfce-settings-manager.desktop,spotify.desktop,visual-studio-code.desktop
-recent=xfce-settings-manager.desktop,bvnc.desktop,xfce-workspaces-settings.desktop,pcmanfm.desktop,spotify.desktop,firefox.desktop,slack.desktop,joplin.desktop,nitrogen.desktop,bitwarden.desktop
+favorites=Alacritty.desktop,bitwarden.desktop,firefox.desktop,spotify.desktop,visual-studio-code.desktop
+recent=bvnc.desktop,pcmanfm.desktop,spotify.desktop,firefox.desktop,slack.desktop,joplin.desktop,nitrogen.desktop,bitwarden.desktop
 button-icon=xfce4-whiskermenu
 button-single-row=false
 show-button-title=false

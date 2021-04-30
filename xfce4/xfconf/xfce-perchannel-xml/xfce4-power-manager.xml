@@ -10,5 +10,6 @@
     <property name="dpms-on-ac-sleep" type="uint" value="60"/>
     <property name="blank-on-ac" type="int" value="60"/>
     <property name="dpms-on-ac-off" type="uint" value="60"/>
+    <property name="show-presentation-indicator" type="bool" value="false"/>
   </property>
 </channel>
