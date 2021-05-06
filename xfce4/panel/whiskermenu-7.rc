@@ -1,5 +1,5 @@
 favorites=Alacritty.desktop,bitwarden.desktop,firefox.desktop,spotify.desktop,visual-studio-code.desktop
-recent=bvnc.desktop,pcmanfm.desktop,spotify.desktop,firefox.desktop,slack.desktop,joplin.desktop,nitrogen.desktop,bitwarden.desktop
+recent=slack.desktop,libreoffice-calc.desktop,steam.desktop,spotify.desktop,bvnc.desktop,pcmanfm.desktop,firefox.desktop,nitrogen.desktop,bitwarden.desktop
 button-icon=xfce4-whiskermenu
 button-single-row=false
 show-button-title=false
