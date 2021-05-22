@@ -2,7 +2,7 @@
 
 #Define the clock
 Clock() {
-        DATETIME=$(date "+%a %b %d, %I:%M:%S %p")
+        DATETIME=$(date "+%a %b %d, %I:%M %p")
         echo -n "$DATETIME"
 }
 
