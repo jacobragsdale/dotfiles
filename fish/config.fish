@@ -12,7 +12,7 @@ alias off="sudo shutdown 0"
 alias reboot="sudo reboot"
 alias bt="exec /home/jacob/Development/bt/target/debug/bt"
 alias yt="exec /home/jacob/Development/yt/target/debug/yt"
-alias backup="bash /home/jacob/.packages/backup.sh"
+alias backup="bash /home/jacob/.backup/backup.sh"
 
 #env variables
 export set MICRO_TRUECOLOR=1
